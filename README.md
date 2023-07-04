@@ -5,6 +5,7 @@
 - 🔭 I am currently working as a Full Deployment Analyst II
 - 🌱 I am currently learning HTML, CSS, JavaScript, Git and GitHub
 - 📘 In the future I would like to learn Bootstrap, jQuery, SASS, LESS, TypeScript, VueJS, ReactJS, Redux and Jest
+- 💭 I would like to learn in the future to specialize as a FullStack NodeJS, ExpressJS, NestJS, NextJS, MongoDB and PostgreSQL
 - 📫 How to reach me: [alexfsmdevreact23@gmail.com](mailto:alexfsmdevreact23@gmail.com)
 - 😄 Pronouns: He/Him
 
@@ -43,6 +44,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Alex-ReactJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Alex-Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Alex-Jest"/>
+</div>
+
+## I will learn in the future to specialize like FullStack
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Alex-NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Alex-ExpressJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="Alex-NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Alex-NextJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="Alex-MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Alex-PostgreSQL"/>
 </div>
  
 <br>
