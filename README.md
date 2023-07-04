@@ -3,7 +3,7 @@
 ## Welcome to my GitHub profile 👋
 
 - 🔭 I am currently working as a Full Deployment Analyst II
-- 🌱 I am currently learning HTML, CSS and JavaScript
+- 🌱 I am currently learning HTML, CSS, JavaScript, Git and GitHub
 - 📘 In the future I would like to learn Bootstrap, jQuery, SASS, LESS, TypeScript, VueJS, ReactJS, Redux and Jest
 - 📫 How to reach me: [alexfsmdevreact23@gmail.com](mailto:alexfsmdevreact23@gmail.com)
 - 😄 Pronouns: He/Him
@@ -24,7 +24,9 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="Alex-HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="Alex-CSS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Alex-Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Alex-Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Alex-Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Alex-GitHub"/>
 </div>
 
 ## I will learn in the future
