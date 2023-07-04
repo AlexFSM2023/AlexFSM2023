@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working as a Full Deployment Analyst II
 - 🌱 I am currently learning HTML, CSS and JavaScript
-- 📘 In the future I would like to learn Bootstrap, jQuery, SASS, LESS, TypeScript, VueJS, ReactJS and Jest
+- 📘 In the future I would like to learn Bootstrap, jQuery, SASS, LESS, TypeScript, VueJS, ReactJS, Redux and Jest
 - 📫 How to reach me: [alexfsmdevreact23@gmail.com](mailto:alexfsmdevreact23@gmail.com)
 - 😄 Pronouns: He/Him
 
@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="Alex-Typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Alex-VueJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Alex-ReactJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Alex-Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Alex-Jest"/>
 </div>
  
